@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DictionaryPracticee\DictionaryPracticee\bin\Debug\DictionaryPracticee.exe.config
+C:\Users\Acer\source\repos\DictionaryPracticee\DictionaryPracticee\bin\Debug\DictionaryPracticee.exe
+C:\Users\Acer\source\repos\DictionaryPracticee\DictionaryPracticee\bin\Debug\DictionaryPracticee.pdb
+C:\Users\Acer\source\repos\DictionaryPracticee\DictionaryPracticee\obj\Debug\DictionaryPracticee.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\DictionaryPracticee\DictionaryPracticee\obj\Debug\DictionaryPracticee.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DictionaryPracticee\DictionaryPracticee\obj\Debug\DictionaryPracticee.exe
+C:\Users\Acer\source\repos\DictionaryPracticee\DictionaryPracticee\obj\Debug\DictionaryPracticee.pdb
